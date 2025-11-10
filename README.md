@@ -32,10 +32,10 @@ Ce script n’utilise uniquement des commandes Powershell. Il n’y a pas d’in
     
     **Processus suivi par fichier:**
     
-    a. Extraction des données principales du fichier en matrice de chaînes de caractères.
-    b. Vérifie le nombre d’entrées de la nouvelle matrice.
-    c. Effectue la transpose de la matrice.
-    d. Trie les entrées et les ajoute à un **fichier CSV**.
+    1. Extraction des données principales du fichier en matrice de chaînes de caractères.
+    2. Vérifie le nombre d’entrées de la nouvelle matrice.
+    3. Effectue la transpose de la matrice.
+    4. Trie les entrées et les ajoute à un **fichier CSV**.
     
     ***→ En cas d’erreur, déplace les fichiers dans un dossier nommé “Exceptions”, et passe au fichier suivant.***
     
